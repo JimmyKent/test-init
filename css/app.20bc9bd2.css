@@ -1,0 +1,1 @@
+#app{display:flex;flex-direction:column;height:100vh}.tab-bar{display:flex;justify-content:space-around;position:fixed;bottom:0;width:100%;background-color:#f8f8f8;border-top:1px solid #ddd;padding:10px 0}.tab{text-align:center;flex:1;padding:10px;color:#333;text-decoration:none}.tab.router-link-exact-active{color:#42b983}
